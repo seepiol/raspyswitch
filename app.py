@@ -1,6 +1,5 @@
 from flask import Flask, request, redirect
 import subprocess
-import RPi.GPIO as GPIO
 import time
 import sqlite3
 
@@ -55,4 +54,4 @@ def light():
 
 if __name__ == "__main__":
     app.debug = True
-    app.run(host="0.0.0.0", port=4000)
+    app.run(host="0.0.0.0", port=5000)

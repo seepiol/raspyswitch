@@ -25,3 +25,4 @@ print(f"""
 Light on {onCounter} times.
 Light off {offCounter} times.
 """)
+

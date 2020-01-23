@@ -1,2 +1,3 @@
-# raspyswitch
-Flask web app that control a servo installed on a light switch by the raspberrypi
+# RasPySwitch
+Flask Web Application that allows the control of a servomotor installed on a light switch controlled by a raspberry pi
+
